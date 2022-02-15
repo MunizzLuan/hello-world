@@ -1,1 +1,3 @@
-# hello-world
+Hello World 
+
+É um repositório criado com o intuito de aprender as funções básicas do Git, como por exemplo: Clonar da nuvem, Puxar da nuvem e etc... 
